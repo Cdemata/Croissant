@@ -7,3 +7,8 @@ body {
   border-radius: 10px;
   margin: 30px auto;
 }
+
+.links a {
+  margin: 0 10px;
+  color: green;
+}
